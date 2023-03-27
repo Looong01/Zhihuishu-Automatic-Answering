@@ -1,6 +1,7 @@
 # 智慧树自动答题-Tampermonkey扩展
-  作者：Looong (BUPT)
-  请遵循MIT License使用
+  **作者：Looong (BUPT)**  
+    
+  **请遵循MIT License使用**  
 
 ## 1. 功能
    **① 自动刷视频**  
