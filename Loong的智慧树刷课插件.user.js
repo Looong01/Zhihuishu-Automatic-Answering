@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Loong的智慧树刷课插件
-// @namespace    Loong
+// @namespace    loong
 // @version      3.2.7
 // @description  自动挂机看知到MOOC，支持屏蔽弹窗题目、自动切换下一节，章测试和考试支持自动答题，视频自动倍速播放、线路选择、默认静音等，解除各类功能限制，开放自定义参数
 // @author       Loong (BUPT)
