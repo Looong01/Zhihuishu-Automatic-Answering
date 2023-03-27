@@ -1,12 +1,11 @@
-# Zhihuishu-Automatic-Answering
-智慧树自动答题
+# 智慧树自动答题-Tampermonkey扩展
 
 ## 1. 功能
-   **① 自动刷视频  **
-   **② 考试、课后作业自动答题  **
+   **① 自动刷视频**  
+   **② 考试、课后作业自动答题**  
 
 ## 2. 安装和使用
-   **① 安装Chromium内核浏览器（这里以Microsoft Edge为例）  **
+   **① 安装Chromium内核浏览器（这里以Microsoft Edge为例）**  
    **② 安装Tampermonkey扩展（https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd）**  
    **③ 点击“管理面板”->“实用工具”->“导入”，选择脚本，安装，如图：**  
    ![image](https://user-images.githubusercontent.com/69568351/228010349-591b5579-6f33-40d8-b53f-d84273b79341.png)  
