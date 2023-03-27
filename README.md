@@ -17,3 +17,5 @@
    ![image](https://user-images.githubusercontent.com/69568351/228011370-34805492-407e-4d4a-a90d-409a691068d6.png)  
    ⑥ 将第22行的token部分的单引号中的部分粘贴替换为自己的。注意单引号不能缺失。如图：  
    ![image](https://user-images.githubusercontent.com/69568351/228013105-aac904d0-f5f9-4bea-98a8-5f9a4d3ded5e.png)  
+   ⑦ 点击“文件”->“保存”。如图：  
+   ![image](https://user-images.githubusercontent.com/69568351/228013359-67f38216-8715-4a05-af0b-94288f8ea9be.png)
