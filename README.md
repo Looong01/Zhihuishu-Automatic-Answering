@@ -1,5 +1,5 @@
 # 智慧树自动答题-Tampermonkey扩展
-  **作者：Looong (BUPT)**  
+  **作者：Loong (BUPT)**  
     
   **请遵循MIT License使用**  
 
